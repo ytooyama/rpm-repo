@@ -19,7 +19,7 @@
 - macOS Tahoe 26.3.1
 - Podman Desktop
 
-### パッケージインストール下環境
+### パッケージインストールをした環境
 - Rockey Linux 9.7
 
 ---
